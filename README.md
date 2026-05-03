@@ -214,19 +214,23 @@ plt.show()
 - ### *i)* Read and Display an Image.  
    1.Read 'Eagle_in_Flight.jpg' as grayscale and display:
 
-![alt text](<Screenshot 2026-05-03 104415.png>)
+<img width="566" height="472" alt="Screenshot 2026-05-03 104415" src="https://github.com/user-attachments/assets/667f606c-fd28-4035-bea1-0a32d2ce1f66" />
+
 
   2.Save image as PNG and display:
 
-![alt text](image.png)
+<img width="571" height="453" alt="Screenshot 2026-05-03 104945" src="https://github.com/user-attachments/assets/0219f41d-3f9c-44e2-9d3d-7fc1791fad22" />
+
 
   3.Cropped image:
 
-![alt text](image-1.png)
+<img width="398" height="466" alt="Screenshot 2026-05-03 105039" src="https://github.com/user-attachments/assets/8cbe4903-6b29-4fcf-af8c-21626c0975ed" />
+
 
   4.Resize and flip Horizontally:
   
-![alt text](image-2.png)
+<img width="444" height="451" alt="Screenshot 2026-05-03 105116" src="https://github.com/user-attachments/assets/b64f9a1e-8869-420a-aa48-01ed12931029" />
+
 
   5.Read 'Apollo-11-launch.jpg' and  Display the final annotated image:
 
